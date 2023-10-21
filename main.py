@@ -19,3 +19,4 @@ def main():
         PDF.main(fileName=filename,voice=voice)
 if __name__ == "__main__":
     main()
+    subprocess.run("clear",shell=True)
